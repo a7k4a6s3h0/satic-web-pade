@@ -1,0 +1,391 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: black;
+}
+.img{
+    width: 100%;
+}
+.img2{
+    max-width: 70px;
+    height: auto;
+}
+.loginbut{
+    position: absolute;
+    top: 48px;
+    right: 57px;
+}
+.logo{
+    position: relative;
+    right: -19px;
+    bottom: 480px;
+    text-align: center;
+}
+.button1{
+    width: 100px;
+    height: 42px;
+    border: 4px solid black;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.content{
+    font: 500 26px/1 RobotoCondensed Bold,Trebuchet MS,Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 478px;
+    text-align: center;
+    color: white;
+}
+.button2{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    height: 50px;
+    overflow: hidden;
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+    
+    
+}
+.para{
+   font-size: 16px;
+   text-transform: none;
+}
+.link{
+ color: red;
+}
+.span1{
+    text-transform: none;
+    font-size: 15px;
+}
+.spiderimg{
+    position: relative;
+    bottom: 460px;
+    text-align: center;
+}
+.imgcontent{
+    width: 50%;
+    float: right;
+    height: 100px;
+    position: relative;
+    bottom: 201px;
+    right: 197px;
+}
+.para2{
+    color: white;
+    font-size: 18px;
+}
+.button3{
+    width: 190px;
+    height: 50px;
+    border: none;
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+    font-size: 18px;
+    background-color: white;
+    color: black
+}
+.vovrein{
+    position: relative;
+    bottom: 530px;
+    text-align: center;
+}
+.imgcontent2{
+    position: relative;
+    width: 50%;
+    bottom: 200px;
+    left: 277px;
+}
+.wanda{
+    position: relative;
+    bottom: 637px;
+    text-align: center;
+}
+.update{
+    text-align: center;
+    position: relative;
+    bottom: 720px;
+
+}
+.vision{
+    position: relative;
+    bottom: 880px;
+    text-align: center;
+}
+.nextsection{
+    text-align: center;
+   position: relative;
+    bottom: 850px;
+    left: 400px;
+    height: 400px;
+}
+.box{
+    color: white;
+}
+h1{
+    font-size: 39px;
+}
+.button4{
+    height: 40px;
+    width: 758px;
+    font-size: 18px;
+    color: white;
+    background:linear-gradient(90deg,#3e0fbf,#05a7fa);;
+}
+.box1{
+    width: 235px;
+    height: 235px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-top: 18px;
+    float: left;
+}
+
+.innerdiv{
+    background-color: red;
+    width: 235px;
+    height: 67px;
+    height: 38px;
+    padding-top: 5px;
+}
+.innerdiv2{
+    background-color:green;
+    width: 235px;
+    height: 67px;
+    height: 38px;
+    padding-top: 5px;
+}
+.innerdiv3{
+    background-color: #9c6c11;
+    width: 235px;
+    height: 67px;
+    height: 38px;
+    padding-top: 5px;
+}
+h5{
+    padding-top: 10px;
+    font-size: 18px;
+    margin-top:0;
+    color: white;
+}
+.text{
+    color: black;
+    position: relative;
+    top: 22px;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    padding-top: 10px;
+}
+.button5{
+    background-color: red;
+    color: white;
+    width: 155px;
+    height: 43px;
+    margin-top: 60px;
+    border: none;
+   
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+}
+
+.button6{
+    background-color:white;
+    color:black;
+    width: 155px;
+    height: 43px;
+    margin-top: 60px;
+    cursor: pointer;
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+    
+}
+
+.button6:hover{
+    background-color: red;
+    color: white;
+}
+
+.button7{
+    background-color:white;
+    color:black;
+    width: 155px;
+    height: 43px;
+    margin-top: 60px;
+    cursor: pointer;
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+}
+.button7:hover{
+    background-color: red;
+    color: white;
+}
+.para3{
+    margin-top: 3px;
+}
+.para4{
+    color: aliceblue;
+    position: absolute;
+    top: 365px;
+    left: 56px;
+}
+.thirdsection{
+    position: relative;
+    bottom: 852px;
+    height: 464px;
+}
+.lastimg{
+    height: 2000px;
+}
+.lastimg{
+    position: relative;
+    top: -2100px;
+    text-align: center;
+}
+.statement{
+    color: white;
+}
+.statement2{
+    color:white;
+}
+.para5{
+    position: relative;
+    text-align: center;
+    color: white;
+    bottom: 3344px;
+}
+.div1{
+    float: left;
+    width: 50%;
+}
+.div2{
+    float: left;
+    width: 50%;
+}
+.p1{
+padding-left: 385px;
+}
+.p2{
+  padding-left: 326px;
+}
+.p3{
+padding-right: 460px;
+}
+.p4{
+padding-right:306px ;
+}
+.p5{
+padding-right: 246px;
+}
+.p6{
+    padding-right:450px ;
+}
+.div1 .p2{
+    padding-top: 49px;
+}
+.line{
+    border: 1px solid white;
+    width: 50%;
+    height: -2px;
+    background: white;
+    position: relative;
+    bottom: 3145px;
+    left: 400px;
+}
+.para6{
+ position: relative;
+ text-align: center;
+ color: white;
+ bottom: 3307px ;
+}
+.div3{
+ float: left;
+ width: 50%;
+}
+.div4{
+ float: left;
+ width: 50%;
+}
+.p7{
+padding-left: 385px;
+}
+.p8{
+padding-right: 333px;
+}
+.button8{
+    width: 200px;
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    height: 50px;
+    clip-path: polygon( 0 29%, 10% 0, 90% 0, 100% 4%, 100% 77%, 93% 100%, 10% 100%, 0% 96%, 0% 10% );
+}
+.form{
+    color: white;
+    text-align: center;
+ 
+    position: relative;
+    font-size: 40px;
+}
+.button9{
+    width: 900px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+.button9:hover{
+    background-color: bisque;
+}
+.iconimg{
+    position: absolute;
+    right: 370px;
+    margin-top: 42px;
+}
+.para7{
+    font-size: 15px;
+    width: 60%;
+    margin-left:314px;
+}
+.underline{
+    width: 70%;
+    border: 1px solid white;
+    margin: -16px 230px 5px;
+}
+.lastdiv{
+    background-color: gray;
+    width: 100%;
+    height: 200px;
+}
+.footercontent{
+    text-align: center;
+    padding-top: 63px;
+}
+.footercontent a{
+    text-decoration: none;
+    padding: 0px 40px 2px;
+    font-size: 14px;
+    font-weight: lighter;
+    color:lightgray;
+}
+.footercontent2 {
+
+   text-align: center;
+   padding-top: 42px;
+}
+.footercontent2 a{
+    text-decoration: none;
+    font-size: 17px;
+    color: darkgrey;
+    padding: 0px 84px 0px;
+    font-size: 21px;
+}
+.footercontent a:hover{
+    color:wheat;
+}
+.footercontent2 a:hover{
+    color: azure;
+}
